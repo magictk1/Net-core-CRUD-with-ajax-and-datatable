@@ -1,0 +1,18 @@
+c:\users\tranq\documents\visual studio 2017\Projects\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.deps.json
+c:\users\tranq\documents\visual studio 2017\Projects\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.runtimeconfig.json
+c:\users\tranq\documents\visual studio 2017\Projects\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.runtimeconfig.dev.json
+c:\users\tranq\documents\visual studio 2017\Projects\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.dll
+c:\users\tranq\documents\visual studio 2017\Projects\TheBook\TheBook\obj\Debug\netcoreapp1.1\TheBook.csprojResolveAssemblyReference.cache
+c:\users\tranq\documents\visual studio 2017\Projects\TheBook\TheBook\obj\Debug\netcoreapp1.1\TheBook.AssemblyInfo.cs
+c:\users\tranq\documents\visual studio 2017\Projects\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.pdb
+c:\users\tranq\documents\visual studio 2017\Projects\TheBook\TheBook\obj\Debug\netcoreapp1.1\TheBook.dll
+c:\users\tranq\documents\visual studio 2017\Projects\TheBook\TheBook\obj\Debug\netcoreapp1.1\TheBook.pdb
+C:\Users\AGILE\Desktop\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.deps.json
+C:\Users\AGILE\Desktop\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.runtimeconfig.json
+C:\Users\AGILE\Desktop\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.runtimeconfig.dev.json
+C:\Users\AGILE\Desktop\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.dll
+C:\Users\AGILE\Desktop\TheBook\TheBook\bin\Debug\netcoreapp1.1\TheBook.pdb
+C:\Users\AGILE\Desktop\TheBook\TheBook\obj\Debug\netcoreapp1.1\TheBook.AssemblyInfo.cs
+C:\Users\AGILE\Desktop\TheBook\TheBook\obj\Debug\netcoreapp1.1\TheBook.dll
+C:\Users\AGILE\Desktop\TheBook\TheBook\obj\Debug\netcoreapp1.1\TheBook.pdb
+C:\Users\AGILE\Desktop\TheBook\TheBook\obj\Debug\netcoreapp1.1\TheBook.csprojResolveAssemblyReference.cache
